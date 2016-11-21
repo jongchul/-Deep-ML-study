@@ -1,0 +1,5 @@
+Dockerfile
+text8.zip
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+notMNIST.pickle
